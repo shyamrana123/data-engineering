@@ -1,0 +1,7 @@
+*.md text
+*.sql text
+*.py text
+*.csv text
+*.json text
+*.yml text
+*.yaml text
