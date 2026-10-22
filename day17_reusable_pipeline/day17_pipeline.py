@@ -1,6 +1,6 @@
 def calculate_order_value(quantity, price):
     return quantity*price
-    pass
+    
 
 def transform_orders(orders):
     transformed_orders =[]
@@ -19,6 +19,7 @@ def transform_orders(orders):
                 "order": order,
                 "reason": "Price must be positive"
             })
+            continue
 
         else:
             transformed_order = order.copy()
