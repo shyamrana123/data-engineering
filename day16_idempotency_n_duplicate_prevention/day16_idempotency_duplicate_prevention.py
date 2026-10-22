@@ -48,7 +48,7 @@ for order in orders:
     order_id = order["order_id"]
 
     if order_id not in orders_by_id:
-        orders_by_id[order_id] = order
+        orders_by_id[order_id] = order   ###Use a dictionary to track the first record for each order ID
 
     elif orders_by_id[order_id] == order:
         exact_duplicates.append(order)
