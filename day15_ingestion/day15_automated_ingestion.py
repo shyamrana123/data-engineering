@@ -78,3 +78,22 @@ logging.info("Pipeline finished")
 print("Total orders loaded:", len(all_orders))
 print("Valid orders:", len(valid_orders))
 print("Rejected orders:", len(rejected_orders))"""
+
+
+
+###PROJECT CHECKLIST:
+"""Automatically discover CSV files with pathlib
+
+Read and combine records using csv.DictReader
+
+Convert quantities and prices to appropriate types
+
+Validate records and preserve rejection reasons
+
+Continue processing when a record is invalid
+
+Calculate the total value using Decimal
+
+Log pipeline activity to pipeline.log
+
+Keep generated log files out of Git"""
