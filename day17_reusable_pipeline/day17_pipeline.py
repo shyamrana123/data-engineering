@@ -41,4 +41,8 @@ orders = [
 valid_orders, rejected_orders = transform_orders(orders)
 
 print("valid orders list:", valid_orders)
+print("Total valid orders: ", len(valid_orders))
+
+
 print("rejected orders list:",rejected_orders)
+print("Total rejected orders", len(rejected_orders))
