@@ -1,0 +1,17 @@
+[
+    {
+        "customer_id": 201,
+        "customer_name": "Alex",
+        "country": "Portugal"
+    },
+    {
+        "customer_id": 202,
+        "customer_name": "Maria",
+        "country": "Spain"
+    },
+    {
+        "customer_id": 203,
+        "customer_name": "Raj",
+        "country": "Nepal"
+    }
+]

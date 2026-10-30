@@ -1,0 +1,62 @@
+[
+    {
+        "customer_id": 1,
+        "customer_name": "Leanne Graham",
+        "email": "Sincere@april.biz",
+        "city": "Gwenborough"
+    },
+    {
+        "customer_id": 2,
+        "customer_name": "Ervin Howell",
+        "email": "Shanna@melissa.tv",
+        "city": "Wisokyburgh"
+    },
+    {
+        "customer_id": 3,
+        "customer_name": "Clementine Bauch",
+        "email": "Nathan@yesenia.net",
+        "city": "McKenziehaven"
+    },
+    {
+        "customer_id": 4,
+        "customer_name": "Patricia Lebsack",
+        "email": "Julianne.OConner@kory.org",
+        "city": "South Elvis"
+    },
+    {
+        "customer_id": 5,
+        "customer_name": "Chelsey Dietrich",
+        "email": "Lucio_Hettinger@annie.ca",
+        "city": "Roscoeview"
+    },
+    {
+        "customer_id": 6,
+        "customer_name": "Mrs. Dennis Schulist",
+        "email": "Karley_Dach@jasper.info",
+        "city": "South Christy"
+    },
+    {
+        "customer_id": 7,
+        "customer_name": "Kurtis Weissnat",
+        "email": "Telly.Hoeger@billy.biz",
+        "city": "Howemouth"
+    },
+    {
+        "customer_id": 8,
+        "customer_name": "Nicholas Runolfsdottir V",
+        "email": "Sherwood@rosamond.me",
+        "city": "Aliyaview"
+    },
+    {
+        "customer_id": 9,
+        "customer_name": "Glenna Reichert",
+        "email": "Chaim_McDermott@dana.io",
+        "city": "Bartholomebury"
+    },
+    {
+        "customer_id": 10,
+        "customer_name": "Clementina DuBuque",
+        "email": "Rey.Padberg@karina.biz",
+        "city": "Lebsackbury"
+    }
+]
