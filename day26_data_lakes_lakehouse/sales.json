@@ -1,0 +1,32 @@
+[
+    {
+        "order_id":1001,
+        "customer":"John",
+        "country":"Portugal",
+        "amount":120
+    },
+    {
+        "order_id":1002,
+        "customer":"Sam",
+        "country":"Spain",
+        "amount":250
+    },
+    {
+        "order_id":1003,
+        "customer":"Raj",
+        "country":"Nepal",
+        "amount":180
+    },
+    {
+        "order_id":1004,
+        "customer":"Alex",
+        "country":"Portugal",
+        "amount":320
+    },
+    {
+        "order_id":1005,
+        "customer":"Sophia",
+        "country":"UK",
+        "amount":90
+    }
+]
