@@ -1,0 +1,9 @@
+product_id,product_name,category,unit_price
+201,Laptop,Electronics,1200.00
+202,Mouse,Accessories,25.00
+203,Keyboard,Accessories,45.00
+204,Monitor,Electronics,300.00
+205,Headphones,Accessories,80.00
+206,Desk,Furniture,250.00
+207,Webcam,Electronics,60.00
+208,USB Hub,Accessories,35.00

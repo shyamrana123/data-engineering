@@ -1,0 +1,11 @@
+customer_id,customer_name,email,country,city
+101,John Smith,john@example.com,Portugal,Lisbon
+102,Sarah Jones,sarah@example.com,Spain,Madrid
+103,Raj Sharma,raj@example.com,Nepal,Kathmandu
+104,Ana Silva,ana@example.com,Portugal,Porto
+105,David Lee,david@example.com,France,Paris
+106,Maria Garcia,maria@example.com,Spain,Barcelona
+107,Peter Brown,peter@example.com,Germany,Berlin
+108,Emma Wilson,emma@example.com,Portugal,Coimbra
+109,Arjun Patel,arjun@example.com,India,Mumbai
+110,Laura Martin,laura@example.com,France,Lyon
