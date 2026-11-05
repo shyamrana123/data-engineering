@@ -215,3 +215,12 @@ JOIN dim_products AS p
 JOIN dim_date AS d
     ON f.date_key = d.date_key
 ORDER BY f.order_id, f.order_item_number;
+
+SELECT * 
+FROM dim_customers
+WHERE customer_id = 101;
+
+UPDATE dim_customers
+SET country = "Spain"
+WHERE customer_id = 101;
+
